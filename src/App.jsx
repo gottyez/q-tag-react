@@ -29,7 +29,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <div> tes asdasdsdasdasdaasdsd</div>
-      <div>KUY </div>
+      <div>KUY i sas </div>
     </>
   )
 }
