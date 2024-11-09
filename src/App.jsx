@@ -28,8 +28,8 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <div> tes asdasdsdasdasdaasdsd</div>
-      <div>KUY i sas </div>
+      <div> tes t</div>
+      <div>test </div>
     </>
   )
 }
